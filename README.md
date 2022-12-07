@@ -1,4 +1,4 @@
-# Layout with Tailwind
+# A layout designed with tailwind
 
 
 ## Links
